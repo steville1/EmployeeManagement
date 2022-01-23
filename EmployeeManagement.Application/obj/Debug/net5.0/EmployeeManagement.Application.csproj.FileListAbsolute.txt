@@ -1,0 +1,14 @@
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Application.deps.json
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Application.dll
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\ref\EmployeeManagement.Application.dll
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Application.pdb
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Domain.dll
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Domain.pdb
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.AssemblyInfo.cs
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.dll
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\ref\EmployeeManagement.Application.dll
+C:\Users\Ikani Stephen\source\repos\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.pdb
